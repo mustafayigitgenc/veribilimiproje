@@ -18,7 +18,7 @@ Bu projede UCI Spambase veri seti (4601 email, 57 özellik) üzerinde istatistik
 | Dosya | Açıklama |
 |-------|----------|
 | `main_analysis.ipynb` | Tüm analizleri içeren çalıştırılmış Jupyter Notebook |
-| `proje_raporu.pdf` | 15 sayfalık PDF rapor (7 bölüm) |
+| `report.pdf` | 15 sayfalık PDF rapor (7 bölüm) |
 | `README.md` | Bu dosya |
 | `spambase.csv` | Kullanılan veri seti |
 | `requirements.txt` | Gerekli Python kütüphaneleri |
